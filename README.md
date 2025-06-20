@@ -26,9 +26,9 @@ Flutter Developer </h3>
 - Soft Skills: Team Collaboration, Time Management, Communication, Critical Thinking, Adaptability, Continuous Learning
 
  </h4> 
-  ( 📫 How to reach me **omarmo8282@gmail.com** )
 
-
+  <a href="https://drive.google.com/file/d/1-GuI8kb5dKBdvlKjc0r_Lq8t4Z10Ik8B/view?usp=drive_link" title="Download CV" target="_blank">
+  <img src="https://img.shields.io/badge/CV-%2300ACC1.svg?style=for-the-badge&logo=google-drive&logoColor=white"/>
 <br>
 
 ## 📩 Connect with me
@@ -37,8 +37,6 @@ Flutter Developer </h3>
     <a href="https://www.linkedin.com/in/omar-mostafa-2645a6217/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="tel:+201010249669" title="Phone">
   <img src="https://img.shields.io/badge/phone-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white"/>
-  <a href="https://drive.google.com/file/d/1-GuI8kb5dKBdvlKjc0r_Lq8t4Z10Ik8B/view?usp=drive_link" title="Download CV" target="_blank">
-  <img src="https://img.shields.io/badge/CV-%2300ACC1.svg?style=for-the-badge&logo=google-drive&logoColor=white"/>
     <a href="https://oomarmostafaa.github.io/Omar-Mostafa-s-personal-page/" title="My Website" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%231572B6.svg?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
