@@ -1,20 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omar Mostafa Mohamed</h1>
 <h3 align="center">Backend Developer</h3>
 
-<p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=oomarmostafaa&label=Profile%20views&color=0e75b6&style=flat" alt="oomarmostafaa" />
-   <img src="https://img.shields.io/github/followers/oomarmostafaa?label=Followers" alt="oomarmostafaa" />
-</p>
-<br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - 🎓 I am a `Computer Science Graduate` from October 6 University (2020 - 2024).  
-- 🔭 I’m currently working at [04 Academy](https://www.linkedin.com/company/04academy/) remotely as an Instructor.  
+- 🔭 I previously worked at [04 Academy](https://www.linkedin.com/company/04academy/) remotely as a Programming & Math Instructor.  
 - 🌱 I’m specialized in `Node.js`, `NestJS`, `TypeScript` and also skilled in `Flutter`.  
-- 📫 How to reach me **omarmo5252@gmail.com**  
 - 📄 Here is [MY RESUME](https://drive.google.com/file/d/1q3gVBnOQ0p50h1urrAaAej6pyu8LtHzd/view?usp=drive_link).  
-- 🧠 Always `learning new things`  
-- 🐼 Doing my best  
 
 <br>
 
@@ -22,7 +14,6 @@
 <p align="center">
     <a href="mailto:omarmo5252@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
     <a href="https://www.linkedin.com/in/omar-mostafa-005824386" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="tel:+201010249669" title="Phone"><img src="https://img.shields.io/badge/phone-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white"/></a>
     <a href="https://oomarmostafaa.github.io/Omar-Mostafa-s-personal-page/" title="My Website" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%231572B6.svg?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
