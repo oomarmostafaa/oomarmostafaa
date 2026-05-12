@@ -1,61 +1,22 @@
-<div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
-</div>
+<h1 align="center">Hi 👋, I'm Omar Mostafa Mohamed</h1>
+<h3 align="center">Backend Developer</h3>
 
-<h2 align="center">
-  Hi, I'm Omar Mostafa Mohamed
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<p align="center"> 
+   <img src="https://komarev.com/ghpvc/?username=oomarmostafaa&label=Profile%20views&color=0e75b6&style=flat" alt="oomarmostafaa" />
+   <img src="https://img.shields.io/github/followers/oomarmostafaa?label=Followers" alt="oomarmostafaa" />
+</p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-<h3 align="center">
-Backend Developer
-</h3>  
-</br>
+- 🎓 I am a `Computer Science Graduate` from October 6 University (2020 - 2024).  
+- 🔭 I’m currently working at [04 Academy](https://www.linkedin.com/company/04academy/) remotely as an Instructor.  
+- 🌱 I’m specialized in `Node.js`, `NestJS`, `TypeScript` and also skilled in `Flutter`.  
+- 📫 How to reach me **omarmo5252@gmail.com**  
+- 📄 Here is [MY RESUME](https://drive.google.com/file/d/1q3gVBnOQ0p50h1urrAaAej6pyu8LtHzd/view?usp=drive_link).  
+- 🧠 Always `learning new things`  
+- 🐼 Doing my best  
 
-<h4> ( Summary ) </h4>  
-Backend Developer specialized in Node.js, NestJS, and TypeScript. Experienced in building scalable RESTful/GraphQL APIs, real-time systems with Socket.io and Redis, and database optimization. Skilled in MVC, Clean Architecture, and system security. Also proficient in Flutter for cross-platform mobile apps.
-
----
-
-<h4>( Education )</h4>  
-- **Bachelor of Computer Science** | October 6 University | 2020 - 2024  
-  - Graduation Project: Smart Firefighting (Excellent A+)  
-  - Volunteer: Member - HR Team (IEEE) | University Student Union  
-
----
-
-<h4>( Skills )</h4>  
-
-- **Backend:** Node.js, NestJS, Express.js, TypeScript, JavaScript, Redis, MongoDB, SQL Server, MySQL, Firebase  
-- **API Design:** RESTful APIs, GraphQL, Webhooks, API Documentation  
-- **Tools:** Docker, Socket.io, Git/GitHub, Postman, Unit Testing  
-- **Architecture:** MVC, Clean Architecture, SOLID Principles, OOP, Design Patterns  
-- **Mobile Development:** Flutter, Dart, Bloc, Provider, Firebase, Responsive UI  
-- **Other Skills:** Data Structures & Algorithms, HTML, CSS, Networking (CCNA fundamentals)  
-- **Soft Skills:** Team Collaboration, Time Management, Communication, Critical Thinking, Adaptability  
-
----
-
-<h4>( Experience )</h4>  
-- **Programming & Math Instructor | 04 Academy (Remote, May 2025 – Present)**  
-  - Teaching backend logic and problem-solving using Python and C++.  
-  - Mentoring students on writing clean, efficient code and understanding data structures.  
-
----
-
-<h4>( Certifications )</h4>  
-- Flutter & Dart Route Academy  
-- English Certificate EF SET  
-- Python Programming ITI Platform  
-- HCIA-Big Data Huawei  
-- Appreciation from IEEE  
-- The 6th Olympiad for Computer Science at Damietta University ITA-SDGs  
-
----
-
-<a href="https://drive.google.com/file/d/1q3gVBnOQ0p50h1urrAaAej6pyu8LtHzd/view?usp=drive_link" title="Download CV" target="_blank">
-  <img src="https://img.shields.io/badge/CV-%2300ACC1.svg?style=for-the-badge&logo=google-drive&logoColor=white"/>
-</a>
+<br>
 
 ## 📩 Connect with me
 <p align="center">
@@ -86,4 +47,5 @@ Backend Developer specialized in Node.js, NestJS, and TypeScript. Experienced in
 <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-1572B6.svg?style
+<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+</p>
