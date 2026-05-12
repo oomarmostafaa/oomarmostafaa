@@ -8,16 +8,21 @@
 </h2>
 
 <h3 align="center">
-Backend Engineer | Node.js & NestJS  
+Backend Engineer | Node.js & NestJS | Flutter Developer
 </h3>  
 </br>
 
 <h4> ( Summary ) </h4>  
-Backend Engineer specialized in Node.js, NestJS, and TypeScript. Experienced in building scalable RESTful/GraphQL APIs, real-time systems with Socket.io and Redis, and database optimization. Also skilled in Flutter for cross-platform mobile apps.
+Backend Engineer specialized in Node.js, NestJS, and TypeScript. Experienced in building scalable RESTful/GraphQL APIs, real-time systems with Socket.io and Redis, and database optimization. Skilled in MVC, Clean Architecture, and system security. Also proficient in Flutter for cross-platform mobile apps.
 
-<h4>( Bachelor's Degree in Computer Science )</h4>  
-October 6 University | 2020 - 2024  
-Graduation Project: Smart Firefighting (Excellent A+)
+---
+
+<h4>( Education )</h4>  
+- **Bachelor of Computer Science** | October 6 University | 2020 - 2024  
+  - Graduation Project: Smart Firefighting (Excellent A+)  
+  - Volunteer: Member - HR Team (IEEE) | University Student Union  
+
+---
 
 <h4>( Skills )</h4>  
 
@@ -28,6 +33,8 @@ Graduation Project: Smart Firefighting (Excellent A+)
 - **Mobile Development:** Flutter, Dart, Bloc, Provider, Firebase, Responsive UI  
 - **Other Skills:** Data Structures & Algorithms, HTML, CSS, Networking (CCNA fundamentals)  
 - **Soft Skills:** Team Collaboration, Time Management, Communication, Critical Thinking, Adaptability  
+
+---
 
 <h4>( Projects )</h4>  
 
@@ -43,9 +50,22 @@ Graduation Project: Smart Firefighting (Excellent A+)
 - **News App (Flutter & Bloc)**  
   Multi-language news app with category filtering and real-time API integration.  
 
+---
+
 <h4>( Experience )</h4>  
-Programming & Math Instructor | 04 Academy (Remote, May 2025 – Present)  
-Teaching backend logic and problem-solving using Python and C++.  
+- **Programming & Math Instructor | 04 Academy (Remote, May 2025 – Present)**  
+  - Teaching backend logic and problem-solving using Python and C++.  
+  - Mentoring students on writing clean, efficient code and understanding data structures.  
+
+---
+
+<h4>( Certifications )</h4>  
+- Flutter & Dart Route Academy  
+- English Certificate EF SET  
+- Python Programming ITI Platform  
+- HCIA-Big Data Huawei  
+- Appreciation from IEEE  
+- The 6th Olympiad for Computer Science at Damietta University ITA-SDGs  
 
 ---
 
