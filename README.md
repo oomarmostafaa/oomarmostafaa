@@ -8,12 +8,12 @@
 </h2>
 
 <h3 align="center">
-Backend Engineer | Node.js & NestJS
+Backend Developer
 </h3>  
 </br>
 
 <h4> ( Summary ) </h4>  
-Backend Engineer specialized in Node.js, NestJS, and TypeScript. Experienced in building scalable RESTful/GraphQL APIs, real-time systems with Socket.io and Redis, and database optimization. Skilled in MVC, Clean Architecture, and system security. Also proficient in Flutter for cross-platform mobile apps.
+Backend Developer specialized in Node.js, NestJS, and TypeScript. Experienced in building scalable RESTful/GraphQL APIs, real-time systems with Socket.io and Redis, and database optimization. Skilled in MVC, Clean Architecture, and system security. Also proficient in Flutter for cross-platform mobile apps.
 
 ---
 
@@ -36,22 +36,6 @@ Backend Engineer specialized in Node.js, NestJS, and TypeScript. Experienced in 
 
 ---
 
-<h4>( Projects )</h4>  
-
-- **E-commerce RESTful API** (Node.js & Express.js)  
-  Built scalable backend with JWT-based RBAC and Stripe payment integration.  
-
-- **Saraha Website (Full-Stack MVC)**  
-  Anonymous messaging platform with session-based authentication and QR profile sharing.  
-
-- **Islami App (Flutter)**  
-  Islamic app featuring Quran, Azkar, Hadith, and Tafsir with smooth navigation.  
-
-- **News App (Flutter & Bloc)**  
-  Multi-language news app with category filtering and real-time API integration.  
-
----
-
 <h4>( Experience )</h4>  
 - **Programming & Math Instructor | 04 Academy (Remote, May 2025 – Present)**  
   - Teaching backend logic and problem-solving using Python and C++.  
@@ -69,14 +53,14 @@ Backend Engineer specialized in Node.js, NestJS, and TypeScript. Experienced in 
 
 ---
 
-<a href="https://drive.google.com/file/d/1-GuI8kb5dKBdvlKjc0r_Lq8t4Z10Ik8B/view?usp=drive_link" title="Download CV" target="_blank">
+<a href="https://drive.google.com/file/d/1q3gVBnOQ0p50h1urrAaAej6pyu8LtHzd/view?usp=drive_link" title="Download CV" target="_blank">
   <img src="https://img.shields.io/badge/CV-%2300ACC1.svg?style=for-the-badge&logo=google-drive&logoColor=white"/>
 </a>
 
 ## 📩 Connect with me
 <p align="center">
-    <a href="mailto:omarmo8282@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-    <a href="https://www.linkedin.com/in/omar-mostafa-mohamed-2645a6217/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:omarmo5252@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+    <a href="https://www.linkedin.com/in/omar-mostafa-005824386" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="tel:+201010249669" title="Phone"><img src="https://img.shields.io/badge/phone-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white"/></a>
     <a href="https://oomarmostafaa.github.io/Omar-Mostafa-s-personal-page/" title="My Website" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%231572B6.svg?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
@@ -94,10 +78,12 @@ Backend Engineer specialized in Node.js, NestJS, and TypeScript. Experienced in 
 <a href="https://redis.io/" title="Redis"><img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://socket.io/" title="Socket.io"><img src="https://img.shields.io/badge/socket.io-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://flutter.dev" title="Flutter"><img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>
 <a href="https://dart.dev" title="Dart"><img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+<a href="https://isocpp.org/" title="C++"><img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-</p>
+<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-1572B6.svg?style
